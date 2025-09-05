@@ -3,7 +3,7 @@
 I’m a **Junior Frontend Developer** based in Amsterdam.  
 I focus on creating **websites that feel clear, intuitive and comfortable to use**.  
 
-✨ For me, design is not just about looks — it’s about giving people a smooth experience:  
+For me, design is not just about looks — it’s about giving people a smooth experience:  
 - respecting their time,  
 - understanding their needs,  
 - and making sure they feel confident they’ll find what they came for.  
