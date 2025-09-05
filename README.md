@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Maria 👋
 
-<!--
-**MARIAKOTR/MARIAKOTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Junior Frontend Developer** based in Amsterdam.  
+I focus on creating **websites that feel clear, intuitive and comfortable to use**.  
 
-Here are some ideas to get you started:
+✨ For me, design is not just about looks — it’s about giving people a smooth experience:  
+- respecting their time,  
+- understanding their needs,  
+- and making sure they feel confident they’ll find what they came for.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe a good interface can inspire **trust and a sense of ease**,  
+and I work to deliver that in every project.  
+
+
+##  Projects
+
+Here are a few projects I’ve worked on (more coming soon):
+
+- **Portfolio Website** — Responsive personal portfolio with clean layout.  
+  [Repo](#) | [Live Demo](#)
+
+- **UI Playground** — A set of interactive components (buttons, forms, modals).  
+  [Repo](#)
+
+- **Daily Reminder App** — Simple tool for saving notes and reminders.  
+  [Repo](#)
+
+---
+
+## Skills
+
+- **Frontend:** HTML5 · CSS3 · JavaScript (ES6+)  
+- **Design & UI:** Figma → to-code workflow, responsive layouts  
+- **Workflow:** Git · GitHub · VS Code  
+
+---
+
+##  Contact
+
+- 💼 www.linkedin.com/in/maria-kotrotsou-02449b163
+- ✉️ kotrotsou.maria1@gmail.com
