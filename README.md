@@ -17,7 +17,8 @@ and I work to deliver that in every project.
 Here are a few projects I’ve worked on (more coming soon):
 
 - **Portfolio Website** — Responsive personal portfolio with clean layout.  
-  [Repo](#) | [Live Demo](#)
+  [Repo](https://github.com/MARIAKOTR/portfolio-website) | [Live Demo](https://mariakotr.github.io/portfolio-website/)
+
 
 - **UI Playground** — A set of interactive components (buttons, forms, modals).  
   [Repo](#)
